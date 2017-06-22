@@ -1,0 +1,20 @@
+{
+  "name": "example-node-app",
+  "version": "1.0.0",
+  "description": "Example Shopify app  written in Node for API documentation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "lowdb": "^0.16.2",
+    "pryjs": "^1.0.3",
+    "shopify-node-api": "^1.7.8",
+    "unirest": "^0.5.1"
+  }
+}
